@@ -1,0 +1,10 @@
+[package]
+name = "sniffer"
+version = "0.1.0"
+authors = ["4thel00z <4thel00z@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.pnet]
+version = "0.22.0"
