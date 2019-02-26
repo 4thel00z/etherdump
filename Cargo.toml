@@ -1,5 +1,5 @@
 [package]
-name = "sniffer"
+name = "rawdump"
 version = "0.1.0"
 authors = ["4thel00z <4thel00z@gmail.com>"]
 edition = "2018"
